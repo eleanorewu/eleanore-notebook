@@ -1,0 +1,23 @@
+{
+  "name": "eleanore-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleanorewu/eleanore-notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleanorewu/eleanore-notebook/issues"
+  },
+  "homepage": "https://github.com/eleanorewu/eleanore-notebook#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  }
+}
